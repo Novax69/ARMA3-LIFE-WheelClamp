@@ -1,0 +1,40 @@
+       <!--
+           If you know other languages make a pull request !
+       --> 
+        
+<Key ID="STR_NOV_WClamp_NoVehicle">
+    <Original>No vehicle found !</Original>
+    <French>Aucun véhicule détecté</French>
+</Key>
+<Key ID="STR_NOV_WClamp_Loading">
+    <Original>Loading...</Original>
+    <French>Chargement...</French>
+</Key>
+<Key ID="STR_NOV_WClamp_PlaceWheelClamp">
+    <Original>Placing wheel clamp...</Original>
+    <French>Mise d'un sabot...</French>
+</Key>
+<Key ID="STR_NOV_WClamp_RemoveWheelClamp">
+    <Original>Removing wheel clamp...</Original>
+    <French>Retrait d'un sabot...</French>
+</Key>
+<Key ID="STR_NOV_WClamp_InfoNotif">
+    <Original>Information on the wheel clamp !</Original>
+    <French>Information sur le sabot !</French>
+</Key>        
+<Key ID="STR_NOV_WClamp_Cancelled">
+    <Original>Placing/removal canceled !</Original>
+    <French>Placement/Retrait annulé !</French>
+</Key> 
+<Key ID="STR_NOV_WClamp_Placed">
+    <Original>Wheel clamp placed with success !</Original>
+    <French>Vous avez mis un sabot !</French>
+</Key>        
+<Key ID="STR_NOV_WClamp_Removed">
+    <Original>Wheel clamp removed with success !</Original>
+    <French>Vous avez retiré un sabot !</French>
+</Key> 
+<Key ID="STR_NOV_WClamp_PlaceRemoved">
+    <Original>Place/Remove Wheel clamp !</Original>
+    <French>Placer/Retirer un sabot !</French>
+</Key> 

@@ -1,0 +1,11 @@
+// Add inside if not exist 
+class CfgNotifications {
+    class NovInfoMessage {
+        title = "%1";
+        iconPicture = "%2";
+        description = "%3";
+        duration = 5;
+        priority = 5;
+    };
+}; 
+ 
