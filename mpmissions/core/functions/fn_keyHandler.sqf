@@ -131,6 +131,9 @@
                         [_veh,"lockCarSound",50,1] remoteExec ["life_fnc_say3D",RANY];
                     };
                 };
+                if (_veh in life_vehicles && {player distance _veh < 20} && (!isNil {_veh getVariable "Nov_vehicleIsClamped"})) then {
+                    ["NovInfoMessage",[localize "STR_NOV_WClamp_InfoNotif","NovScript\NovTextures\wheelClamp.paa",localize "STR_NOV_WClamp_VehicleClamped"]] call BIS_fnc_showNotification;
+                };
             };
         };
     };

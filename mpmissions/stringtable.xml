@@ -38,3 +38,7 @@
     <Original>Place/Remove Wheel clamp !</Original>
     <French>Placer/Retirer un sabot !</French>
 </Key> 
+<Key ID="STR_NOV_WClamp_VehicleClamped">
+    <Original>This vehicle has a wheelClamp ! Contact someone to remove it !</Original>
+    <French>Ce véhicule a un sabot ! Contactez la DIR pour le retirer !</French>
+</Key>
